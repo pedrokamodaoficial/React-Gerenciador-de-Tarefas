@@ -2,7 +2,7 @@
 
 Um experimento com **React** e **Tailwind CSS** para criar um gerenciador de tarefas simples e funcional. Permite adicionar, editar, excluir e riscar tarefas concluídas.
 
-![Preview do Projeto](./assets/PrintGerTarefas.png)
+![Preview do Projeto](../src/assets/PrintGerTarefas.png)
 
 ## 🚀 Tecnologias utilizadas
 
