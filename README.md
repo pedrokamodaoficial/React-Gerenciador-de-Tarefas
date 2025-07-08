@@ -1,8 +1,18 @@
-# React + Vite
+# 📝 React Task Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Um experimento com **React** e **Tailwind CSS** para criar um gerenciador de tarefas simples e funcional. Permite adicionar, editar, excluir e riscar tarefas concluídas.
 
-Currently, two official plugins are available:
+![Preview do Projeto](./assets/PrintGerTarefas.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias utilizadas
+
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+## ✨ Funcionalidades
+
+- ✅ Adicionar novas tarefas
+- ✏️ Editar tarefas existentes
+- ❌ Excluir tarefas
+- ✔️ Marcar tarefas como concluídas
